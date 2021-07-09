@@ -36,3 +36,4 @@ enter amount to withdrawal or enter [2] to quit.
 40.0
 Your remaining balance is:  15.0
 enter amount to withdrawal or enter [2] to quit.
+This is the output
